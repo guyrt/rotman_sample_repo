@@ -7,3 +7,4 @@ git merge   - combine branches
 git commit  - add a commit.
 
 
+git clone <URL> - adds a git repository from GitHub to the current directory
