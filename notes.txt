@@ -6,4 +6,4 @@ git checkout - switch branched.
 git merge   - combine branches
 git commit  - add a commit.
 
-
+git clone - makes a clone of repo on local computer - cesar edit
