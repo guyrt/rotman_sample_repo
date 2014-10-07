@@ -1,0 +1,9 @@
+git is a tool for tracking changes and collaborating.
+
+git status  - see status of my repo
+git branch  - see status of branches
+git checkout - switch branched.
+git merge   - combine branches
+git commit  - add a commit.
+
+
